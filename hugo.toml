@@ -1,0 +1,9 @@
+baseURL = "https://your-blog.pages.dev"
+locale = "ja"
+title = "私のブログ"
+theme = "PaperMod"
+
+[params]
+  description = "アフィリエイトブログ"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
