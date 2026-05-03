@@ -1,9 +1,9 @@
-baseURL = "https://your-blog.pages.dev"
+baseURL = "https://my-blog-drk.pages.dev"
 locale = "ja"
-title = "私のブログ"
+title = "くらしのたより"
 theme = "PaperMod"
 
 [params]
-  description = "アフィリエイトブログ"
+  description = "主婦目線で選んだ、本当に使えるもの"
   ShowReadingTime = true
   ShowPostNavLinks = true
